@@ -40,6 +40,7 @@ fi
   "islandora.io" \
   "*.islandora.info" \
   "islandora.info" \
+  "dev.islandora.ca" \
   "localhost" \
   "127.0.0.1" \
   "::1"
